@@ -5,9 +5,10 @@
 This script automates the process of scraping job listings from Shine.com for data science positions. It navigates through the job listings, extracting detailed information including job title, company name, experience required, job type, and job description.
 
 ## Features
-- Pagination handling up to a specified number of pages.
+- Targets recent job listings (posted within the last 7 days).
+- Handles pagination up to a specified number of pages.
+- Utilizes Selenium for dynamic content extraction to ensure accuracy.
 - Detailed logging of operations and errors.
-- Dynamic extraction of job details using Selenium for accurate, real-time data.
 
 ## Requirements
 To install the required packages, run the following command:
