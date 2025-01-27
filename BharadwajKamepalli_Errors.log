@@ -1,0 +1,120 @@
+2025-01-26 13:23:01,993 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs
+2025-01-26 13:23:02,956 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs
+2025-01-26 13:23:02,958 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-2
+2025-01-26 13:23:03,320 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-2
+2025-01-26 13:23:03,320 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-3
+2025-01-26 13:23:03,805 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-3
+2025-01-26 13:23:03,805 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-4
+2025-01-26 13:23:04,126 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-4
+2025-01-26 13:23:04,126 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-5
+2025-01-26 13:23:04,415 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-5
+2025-01-26 13:23:04,415 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-6
+2025-01-26 13:23:04,725 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-6
+2025-01-26 13:23:04,725 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-7
+2025-01-26 13:23:05,014 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-7
+2025-01-26 13:23:05,016 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-8
+2025-01-26 13:23:05,340 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-8
+2025-01-26 13:23:05,340 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-9
+2025-01-26 13:23:05,629 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-9
+2025-01-26 13:23:05,629 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-10
+2025-01-26 13:23:05,955 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-10
+2025-01-26 13:25:44,075 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs
+2025-01-26 13:25:45,089 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs
+2025-01-26 13:25:45,089 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-2
+2025-01-26 13:25:45,338 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-2
+2025-01-26 13:25:45,338 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-3
+2025-01-26 13:25:45,862 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-3
+2025-01-26 13:25:45,862 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-4
+2025-01-26 13:25:46,240 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-4
+2025-01-26 13:25:46,240 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-5
+2025-01-26 13:25:46,558 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-5
+2025-01-26 13:25:46,558 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-6
+2025-01-26 13:25:46,778 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-6
+2025-01-26 13:25:46,778 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-7
+2025-01-26 13:25:47,002 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-7
+2025-01-26 13:25:47,002 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-8
+2025-01-26 13:25:47,236 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-8
+2025-01-26 13:25:47,236 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-9
+2025-01-26 13:25:47,472 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-9
+2025-01-26 13:25:47,472 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-10
+2025-01-26 13:25:47,693 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-10
+2025-01-26 19:31:00,751 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs
+2025-01-26 19:31:02,024 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs
+2025-01-26 19:31:02,024 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-2
+2025-01-26 19:31:02,539 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-2
+2025-01-26 19:31:02,539 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-3
+2025-01-26 19:31:03,106 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-3
+2025-01-26 19:31:03,106 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-4
+2025-01-26 19:31:03,523 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-4
+2025-01-26 19:31:03,523 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-5
+2025-01-26 19:31:03,808 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-5
+2025-01-26 19:31:03,808 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-6
+2025-01-26 19:31:04,115 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-6
+2025-01-26 19:31:04,115 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-7
+2025-01-26 19:31:04,393 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-7
+2025-01-26 19:31:04,393 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-8
+2025-01-26 19:31:04,679 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-8
+2025-01-26 19:31:04,679 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-9
+2025-01-26 19:31:05,001 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-9
+2025-01-26 19:31:05,001 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-10
+2025-01-26 19:31:05,248 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-10
+2025-01-26 19:31:33,725 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs
+2025-01-26 19:31:34,644 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs
+2025-01-26 19:31:34,644 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-2
+2025-01-26 19:31:35,085 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-2
+2025-01-26 19:31:35,085 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-3
+2025-01-26 19:31:35,382 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-3
+2025-01-26 19:31:35,382 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-4
+2025-01-26 19:31:35,739 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-4
+2025-01-26 19:31:35,741 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-5
+2025-01-26 19:31:36,320 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-5
+2025-01-26 19:31:36,320 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-6
+2025-01-26 19:31:36,697 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-6
+2025-01-26 19:31:36,698 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-7
+2025-01-26 19:31:37,037 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-7
+2025-01-26 19:31:37,037 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-8
+2025-01-26 19:31:37,536 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-8
+2025-01-26 19:31:37,536 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-9
+2025-01-26 19:31:38,034 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-9
+2025-01-26 19:31:38,034 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-10
+2025-01-26 19:31:38,482 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-10
+2025-01-26 19:39:01,208 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs
+2025-01-26 19:39:04,413 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs
+2025-01-26 19:39:04,413 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-2
+2025-01-26 19:39:04,856 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-2
+2025-01-26 19:39:04,856 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-3
+2025-01-26 19:39:05,236 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-3
+2025-01-26 19:39:05,236 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-4
+2025-01-26 19:39:05,552 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-4
+2025-01-26 19:39:05,552 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-5
+2025-01-26 19:39:06,094 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-5
+2025-01-26 19:39:06,094 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-6
+2025-01-26 19:39:06,486 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-6
+2025-01-26 19:39:06,486 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-7
+2025-01-26 19:39:06,762 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-7
+2025-01-26 19:39:06,762 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-8
+2025-01-26 19:39:07,254 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-8
+2025-01-26 19:39:07,254 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-9
+2025-01-26 19:39:07,602 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-9
+2025-01-26 19:39:07,602 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-10
+2025-01-26 19:39:07,884 - ERROR - Failed to load URL: https://www.shine.com/job-search/data-science-jobs-10
+2025-01-26 19:44:18,773 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs - Attempt 1
+2025-01-26 19:44:28,633 - INFO - Data written for page 1.
+2025-01-26 19:44:28,633 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-2 - Attempt 1
+2025-01-26 19:44:32,155 - INFO - Data written for page 2.
+2025-01-26 19:44:32,155 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-3 - Attempt 1
+2025-01-26 19:44:32,556 - INFO - No recent job postings found on page 3.
+2025-01-26 19:44:32,556 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-4 - Attempt 1
+2025-01-26 19:44:32,953 - INFO - No recent job postings found on page 4.
+2025-01-26 19:44:32,953 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-5 - Attempt 1
+2025-01-26 19:44:33,393 - INFO - No recent job postings found on page 5.
+2025-01-26 19:44:33,393 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-6 - Attempt 1
+2025-01-26 19:44:33,840 - INFO - No recent job postings found on page 6.
+2025-01-26 19:44:33,840 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-7 - Attempt 1
+2025-01-26 19:44:38,868 - INFO - Data written for page 7.
+2025-01-26 19:44:38,868 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-8 - Attempt 1
+2025-01-26 19:44:39,896 - INFO - Data written for page 8.
+2025-01-26 19:44:39,896 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-9 - Attempt 1
+2025-01-26 19:44:40,289 - INFO - No recent job postings found on page 9.
+2025-01-26 19:44:40,289 - INFO - Accessing URL: https://www.shine.com/job-search/data-science-jobs-10 - Attempt 1
+2025-01-26 19:44:44,772 - INFO - Data written for page 10.
